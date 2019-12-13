@@ -1,4 +1,4 @@
-# vue-project-nots3.0
+# clps-project
 
 ## Project setup
 ```
